@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A3_ListasInterativas</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="digite_uma_tarefa">Digite uma tarefa</string>
+</resources>
